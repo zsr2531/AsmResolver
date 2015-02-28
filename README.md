@@ -1,3 +1,5 @@
+Deprecated. Please use v2.0 instead.
+
 AsmResolver
 ===========
 
